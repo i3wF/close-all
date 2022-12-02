@@ -5,4 +5,4 @@
 <h3>If you need exe file go to "close all/bin/Release/net6.0-windows/" or click <a href ="https://github.com/lv-wk/close-all/tree/main/close%20all/bin/Release/net6.0-windows">here</a>
 and make sure the exe file need dll for him please download it to work without erorrs</h3>
 <br>
-<h3>The exe file is sife from virus you can check it from <a href="https://www.virustotal.com"> here </a></h3>
+<h3>The exe file is safe from virus you can check it from <a href="https://www.virustotal.com"> here </a></h3>
