@@ -1,0 +1,17 @@
+D:\VS Projects\close all\close all\bin\Debug\net6.0-windows\close all.exe
+D:\VS Projects\close all\close all\bin\Debug\net6.0-windows\close all.deps.json
+D:\VS Projects\close all\close all\bin\Debug\net6.0-windows\close all.runtimeconfig.json
+D:\VS Projects\close all\close all\bin\Debug\net6.0-windows\close all.dll
+D:\VS Projects\close all\close all\bin\Debug\net6.0-windows\close all.pdb
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.csproj.AssemblyReference.cache
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close_all.Form1.resources
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.csproj.GenerateResource.cache
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.AssemblyInfoInputs.cache
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.AssemblyInfo.cs
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.csproj.CoreCompileInputs.cache
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.dll
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\refint\close all.dll
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.pdb
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\close all.genruntimeconfig.cache
+D:\VS Projects\close all\close all\obj\Debug\net6.0-windows\ref\close all.dll
